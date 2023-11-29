@@ -1,2 +1,1 @@
-# .github
-QuasiScience company page on Github.
+# QuasiScience Ltd
