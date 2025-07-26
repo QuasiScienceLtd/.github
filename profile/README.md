@@ -28,6 +28,6 @@ We're always looking to connect with talented developers, potential clients, and
 
 * **Website:** [QuasiScience Home](https://quasiscience.com)
 * **Contact:** [Form](https://quasiscience.com/contacts)
-* **LinkedIn:** [Your LinkedIn Profile/Page (If Applicable)](https://www.linkedin.com/company/quasiscience)
+* **LinkedIn:** [Company Page](https://www.linkedin.com/company/quasiscience)
 
 We look forward to building together!
